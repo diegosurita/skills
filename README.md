@@ -1,7 +1,5 @@
 # Skills
 
-![skills.sh](https://skills.sh/b/diegosurita/skills)
-
 This repository stores the AI agent skills I use in my daily development workflow. Install them with the [skills CLI](https://github.com/vercel-labs/skills). That CLI needs Node.js 22.20 or later.
 
 ## Install
