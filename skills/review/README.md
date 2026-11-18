@@ -9,3 +9,9 @@ Judge a diff, branch, or pull request against code health and the behavior in th
 ## How to use
 
 Ask the agent to review a change, a diff, a branch, or a pull request. The agent returns a verdict: Approve, Approve with comments, or Request changes.
+
+## Install
+
+```bash
+npx skills add diegosurita/skills --skill review
+```

@@ -9,3 +9,11 @@ Run each unchecked task in `.docs/specs/<feature-name>/tasks.md` with test-drive
 ## How to use
 
 Ask the agent to implement a spec and name the spec directory. The agent does not commit unless you ask.
+
+## Install
+
+`implement` follows `review`. Install both:
+
+```bash
+npx skills add diegosurita/skills --skill implement --skill review
+```
