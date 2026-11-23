@@ -33,6 +33,8 @@
 
 **ADR**: [`.docs/ADR/<decision-name>.md`, or none.]
 
+[Omit a snippet unless the plan already contains one that states a state machine, schema, or type shape more precisely than prose. When you include it, note that it came from the plan and trim it to this decision. Leave it out of every other section.]
+
 ## Data model
 
 [Omit this section when the plan has no persistence change. Otherwise record the records, fields, and relationships the plan decided.]

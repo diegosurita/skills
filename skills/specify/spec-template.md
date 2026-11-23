@@ -1,8 +1,12 @@
 # [Feature name]
 
-## Purpose
+## Problem
 
-[One or two sentences: who benefits and why.]
+[Omit this section unless the plan stated the pain without module paths, class names, or framework detail.]
+
+## Solution
+
+[The user-visible outcome, or what callers still observe, from the plan.]
 
 ## Scope
 
@@ -13,6 +17,8 @@
 - [What the plan excluded.]
 
 ## User stories
+
+[Omit this section when the plan states no new or changed outcome for a user or caller. When only some outcomes change, keep stories only for those.]
 
 ### US1 - [Title] (P1)
 
@@ -25,6 +31,8 @@
 **Scenarios**: [Scenario names in `.docs/feature/<feature-name>.md`.]
 
 ## Requirements
+
+[Omit this section when there are no user stories.]
 
 - **FR-001**: The system MUST [one behavior]. Proved by US1, scenario [name].
 
