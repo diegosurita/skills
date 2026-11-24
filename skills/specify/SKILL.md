@@ -58,7 +58,7 @@ When the plan covers more than one isolated feature, write one feature document 
 
 ## Feature document
 
-Follow the `feature-document` skill and read its `SKILL.md` when the plan changes an outcome for a user or caller. Create `.docs/feature/<feature-name>.md`.
+Follow the `feature-document` skill and read its `SKILL.md` when the plan changes an outcome for a user or caller. Create `.docs/feature/NNNN-<feature-name>.md`.
 
 `spec.md` cites that file by scenario name. Leave the scenario text in the feature document.
 

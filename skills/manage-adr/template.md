@@ -2,7 +2,7 @@
 
 ## Status
 
-[Proposed | Accepted | Rejected | Deprecated | Superseded by .docs/ADR/<decision-name>.md]
+[Proposed | Accepted | Rejected | Deprecated | Superseded by .docs/ADR/NNNN-<other-decision>.md]
 
 ## Context
 

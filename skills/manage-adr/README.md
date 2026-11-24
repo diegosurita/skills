@@ -8,7 +8,7 @@ Use this skill for a decision that is hard to reverse or that sets a boundary fo
 
 ## How to use
 
-Ask the agent to record or document an architecture decision, or ask for an ADR. The agent copies `template.md` to `.docs/ADR/<decision-name>.md` and fills in the title, Status, Context, Decision, and Consequences.
+Ask the agent to record or document an architecture decision, or ask for an ADR. The agent copies `template.md` to `.docs/ADR/NNNN-<decision-name>.md` and fills in the title, Status, Context, Decision, and Consequences.
 
 ## Install
 

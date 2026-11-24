@@ -31,7 +31,7 @@
 
 **Rejected**: [Alternative the plan rejected.]
 
-**ADR**: [`.docs/ADR/<decision-name>.md`, or none.]
+**ADR**: [`.docs/ADR/NNNN-<decision-name>.md`, or none.]
 
 [Omit a snippet unless the plan already contains one that states a state machine, schema, or type shape more precisely than prose. When you include it, note that it came from the plan and trim it to this decision. Leave it out of every other section.]
 

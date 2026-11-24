@@ -28,7 +28,7 @@
 
 **Independent test**: [How this story is tested on its own.]
 
-**Scenarios**: [Scenario names in `.docs/feature/<feature-name>.md`.]
+**Scenarios**: [Scenario names in `.docs/feature/NNNN-<feature-name>.md`.]
 
 ## Requirements
 
